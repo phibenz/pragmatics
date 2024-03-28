@@ -1,0 +1,1242 @@
+{
+    "claude-3-opus-20240229": {
+        "c-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "c-crc32": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "c-convert-sqrt-from-python": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "c-convert-dp-from-python": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "c-weird-expression": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-file-size-mod": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-find-dont-contain": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "bash-renamer": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "javascript-explain-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "javascript-save-expired": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "rust-hello-world": [
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "rust-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "data-table-processing": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "xml-to-json": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-dedent": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-tokenizer": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-numpy-advanced-index": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-bnf-parser": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-hello-world": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fast-l2": [
+            false,
+            false,
+            true,
+            false,
+            false
+        ],
+        "python-numpy-ix": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-torch-backward": [
+            false,
+            false,
+            true,
+            true,
+            false
+        ],
+        "python-dp-to-iterative": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-debug-parcount": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-disassembly-simple": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-string-alterations": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-threading-error": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "extract-emails": [
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "gitignore-anywhere": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "freecad-construction": [
+            true,
+            false,
+            false,
+            true,
+            true
+        ],
+        "emacs-lisp-silence": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "bug-in-paper": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "llama2-hidden-dimension": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "obey-system-prompt": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "aws-ipv6": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "db9-pinout": [
+            false,
+            true,
+            true,
+            true,
+            true
+        ],
+        "uudecode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "base64-qanda": [
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "baking": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "vpbroadcastb": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "identify-uuencode": [
+            false,
+            false,
+            false,
+            true,
+            true
+        ]
+    },
+    "gpt-4-0125-preview": {
+        "c-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "c-crc32": [
+            false,
+            false,
+            true,
+            false,
+            true
+        ],
+        "c-convert-sqrt-from-python": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "c-convert-dp-from-python": [
+            true,
+            false,
+            true,
+            false,
+            true
+        ],
+        "c-weird-expression": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-file-size-mod": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-find-dont-contain": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "bash-renamer": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "javascript-explain-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "javascript-save-expired": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "rust-hello-world": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "rust-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "data-table-processing": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "xml-to-json": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-rref": [
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "python-dedent": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-tokenizer": [
+            true,
+            true,
+            false,
+            true,
+            false
+        ],
+        "python-numpy-advanced-index": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-bnf-parser": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-hello-world": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fast-l2": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-numpy-ix": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-torch-backward": [
+            true,
+            true,
+            false,
+            true,
+            true
+        ],
+        "python-dp-to-iterative": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-debug-parcount": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-disassembly-simple": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-string-alterations": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-threading-error": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "extract-emails": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "gitignore-anywhere": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "freecad-construction": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "emacs-lisp-silence": [
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "bug-in-paper": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "llama2-hidden-dimension": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "obey-system-prompt": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "aws-ipv6": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "db9-pinout": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "uudecode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "base64-qanda": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "baking": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "vpbroadcastb": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "identify-uuencode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    "gemini-1.0-pro": {
+        "c-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "c-crc32": [
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "c-convert-sqrt-from-python": [
+            false,
+            true,
+            false,
+            false,
+            true
+        ],
+        "c-convert-dp-from-python": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "c-weird-expression": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-file-size-mod": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-find-dont-contain": [
+            false,
+            true,
+            false,
+            false,
+            false
+        ],
+        "bash-renamer": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "javascript-explain-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "javascript-save-expired": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "rust-hello-world": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "rust-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "data-table-processing": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "xml-to-json": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-dedent": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-tokenizer": [
+            true,
+            true,
+            false,
+            false,
+            true
+        ],
+        "python-numpy-advanced-index": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-bnf-parser": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-hello-world": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fast-l2": [
+            true,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-numpy-ix": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-torch-backward": [
+            false,
+            true,
+            false,
+            false,
+            true
+        ],
+        "python-dp-to-iterative": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-debug-parcount": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-disassembly-simple": [
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "python-string-alterations": [
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "python-threading-error": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "extract-emails": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "gitignore-anywhere": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "freecad-construction": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "emacs-lisp-silence": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bug-in-paper": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "llama2-hidden-dimension": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "obey-system-prompt": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "aws-ipv6": [
+            false,
+            true,
+            false,
+            true,
+            false
+        ],
+        "db9-pinout": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "uudecode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "base64-qanda": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "baking": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "vpbroadcastb": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "identify-uuencode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    },
+    "mistral-large-latest": {
+        "c-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "c-crc32": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "c-convert-sqrt-from-python": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "c-convert-dp-from-python": [
+            false,
+            true,
+            true,
+            false,
+            false
+        ],
+        "c-weird-expression": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-file-size-mod": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bash-find-dont-contain": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "bash-renamer": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "javascript-explain-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "javascript-save-expired": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "rust-hello-world": [
+            true,
+            false,
+            true,
+            true,
+            true
+        ],
+        "rust-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "data-table-processing": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "xml-to-json": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-string-length": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-rref": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-dedent": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-tokenizer": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-numpy-advanced-index": [
+            true,
+            true,
+            true,
+            false,
+            true
+        ],
+        "python-bnf-parser": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-hello-world": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-disassembly-prime": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fast-l2": [
+            false,
+            false,
+            false,
+            false,
+            true
+        ],
+        "python-numpy-ix": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-fix-torch-backward": [
+            false,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-dp-to-iterative": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-debug-parcount": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-disassembly-simple": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "python-string-alterations": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "python-threading-error": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "extract-emails": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "gitignore-anywhere": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "freecad-construction": [
+            true,
+            true,
+            true,
+            true,
+            false
+        ],
+        "emacs-lisp-silence": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "bug-in-paper": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "llama2-hidden-dimension": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "obey-system-prompt": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "aws-ipv6": [
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "db9-pinout": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "uudecode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "base64-qanda": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "baking": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "vpbroadcastb": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "identify-uuencode": [
+            false,
+            false,
+            false,
+            false,
+            false
+        ]
+    }
+}

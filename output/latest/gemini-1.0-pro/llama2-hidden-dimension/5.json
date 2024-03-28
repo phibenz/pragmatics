@@ -1,0 +1,4 @@
+{"type": "language_model", "name": "GoogleAIModel", "input": [{"role": "user", "content": "What is the hidden dimension of LLAMA-2 70b?"}], "output": "LLAMA-2 70b does not have a hidden dimension.", "success": true, "error": null, "args": {"model": "gemini-1.0-pro", "api_key": "api-key-redacted"}}
+{"type": "evaluator", "name": "WordEvaluator", "input": "LLAMA-2 70b does not have a hidden dimension.", "output": "False", "success": true, "error": null, "args": {"patterns": ["8192"], "condition": "and"}}
+{"type": "template_job:final_eval", "name": "TemplateJob", "input": [false], "output": false, "success": true, "error": null, "args": {"query_evaluators_condition": "and"}}
+{"type": "template_job:clean_up", "name": "TemplateJob", "input": "/tmp/pragmatics/llama2-hidden-dimension", "output": null, "success": true, "error": null, "args": {}}

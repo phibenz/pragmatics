@@ -1,0 +1,13 @@
+# Secrets
+config/api-keys.yaml
+
+# Dev & test
+my_scripts/
+
+# The usual suspects
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

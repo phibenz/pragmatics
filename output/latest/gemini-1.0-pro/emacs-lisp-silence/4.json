@@ -1,0 +1,4 @@
+{"type": "language_model", "name": "GoogleAIModel", "input": [{"role": "user", "content": "In emacs lisp how do I silence \"Process python-process finished?"}], "output": "```emacs lisp\n(setq python-process-verbose nil)\n```", "success": true, "error": null, "args": {"model": "gemini-1.0-pro", "api_key": "api-key-redacted"}}
+{"type": "evaluator", "name": "WordEvaluator", "input": "```emacs lisp\n(setq python-process-verbose nil)\n```", "output": "False", "success": true, "error": null, "args": {"patterns": ["set-process-sentinel"], "condition": "and"}}
+{"type": "template_job:final_eval", "name": "TemplateJob", "input": [false], "output": false, "success": true, "error": null, "args": {"query_evaluators_condition": "and"}}
+{"type": "template_job:clean_up", "name": "TemplateJob", "input": "/tmp/pragmatics/emacs-lisp-silence", "output": null, "success": true, "error": null, "args": {}}

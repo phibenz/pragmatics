@@ -1,0 +1,7 @@
+vendor: mistralai
+models:
+  - name: "open-mistral-7b"
+  - name: "open-mixtral-8x7b"
+  - name: "mistral-small-latest"
+  - name: "mistral-medium-latest"
+  - name: "mistral-large-latest"

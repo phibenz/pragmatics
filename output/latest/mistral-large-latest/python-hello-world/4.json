@@ -1,0 +1,6 @@
+{"type": "language_model", "name": "MistralAIModel", "input": [{"role": "user", "content": "Write a python program that prints the string \"hello world\". Print only the code."}], "output": "Sure, here's a simple Python program that prints \"hello world\":\n\n```python\nprint(\"hello world\")\n```", "success": true, "error": null, "args": {"model": "mistral-large-latest", "api_key": "api-key-redacted"}}
+{"type": "processor", "name": "ExtractCodeProcessor", "input": "Sure, here's a simple Python program that prints \"hello world\":\n\n```python\nprint(\"hello world\")\n```", "output": "\nprint(\"hello world\")\n", "success": true, "error": null, "args": {}}
+{"type": "processor", "name": "PythonRunProcessor", "input": "\nprint(\"hello world\")\n", "output": "hello world", "success": true, "error": null, "args": {}}
+{"type": "evaluator", "name": "WordEvaluator", "input": "hello world", "output": "True", "success": true, "error": null, "args": {"patterns": ["hello world"], "condition": "and"}}
+{"type": "template_job:final_eval", "name": "TemplateJob", "input": [true], "output": true, "success": true, "error": null, "args": {"query_evaluators_condition": "and"}}
+{"type": "template_job:clean_up", "name": "TemplateJob", "input": "/tmp/pragmatics/python-hello-world", "output": null, "success": true, "error": null, "args": {}}

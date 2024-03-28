@@ -1,0 +1,7 @@
+openai==1.14.2
+anthropic==0.21.3
+tenacity==8.2.3
+mistralai==0.1.6
+google-generativeai==0.4.1
+requests==2.31.0
+pebble==5.0.7

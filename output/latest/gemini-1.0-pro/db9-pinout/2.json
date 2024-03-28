@@ -1,0 +1,4 @@
+{"type": "language_model", "name": "GoogleAIModel", "input": [{"role": "user", "content": "What port has 5 pins on the top and 4 on the bottom?"}], "output": "A USB port", "success": true, "error": null, "args": {"model": "gemini-1.0-pro", "api_key": "api-key-redacted"}}
+{"type": "evaluator", "name": "WordEvaluator", "input": "A USB port", "output": "False", "success": true, "error": null, "args": {"patterns": ["DB-9", "DB9", "DE-9", "DE9"], "condition": "or"}}
+{"type": "template_job:final_eval", "name": "TemplateJob", "input": [false], "output": false, "success": true, "error": null, "args": {"query_evaluators_condition": "and"}}
+{"type": "template_job:clean_up", "name": "TemplateJob", "input": "/tmp/pragmatics/db9-pinout", "output": null, "success": true, "error": null, "args": {}}
